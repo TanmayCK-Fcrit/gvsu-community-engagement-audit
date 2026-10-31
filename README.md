@@ -32,4 +32,4 @@ This research prototype establishes a baseline current-state inventory and inter
 ## 📂 Repository Contents
 - `gvsu_elements.csv` — Entity catalog containing entity labels, types, sectors, campus anchors, and descriptions.
 - `gvsu_connections.csv` — Edge mapping file linking GVSU colleges to external partners with relationship classifications and intensity weights.
-- `gvsu_community_engagement_network.png` — High-resolution network graph render.
+- `GVSU-Civic-Engagement-Map.pdf` — High-resolution network graph render.
