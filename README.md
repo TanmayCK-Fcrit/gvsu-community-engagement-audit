@@ -1,14 +1,14 @@
 # GVSU Civic Engagement Ecosystem Map & Inventory
 **Project Type:** Public Affairs & Institutional Research Audit Prototype  
 **Audience:** Division of Public Affairs and Communication, Grand Valley State University  
-**Live Interactive Map:** [View Interactive Kumu Relationship Map](https://kumu.io/<your-kumu-username>/gvsu-community-engagement-map)
+**Live Interactive Map:** [View Interactive Kumu Relationship Map][(https://kumu.io/<your-kumu-username>/gvsu-community-engagement-map](https://embed.kumu.io/a825dc713b5dc4e46f33ac83c12b7275))
 
 ---
 
 ## 📌 Executive Summary
 This research prototype establishes a baseline current-state inventory and interactive stakeholder map of Grand Valley State University’s publicized external civic partnerships across the Grand Rapids and Allendale ecosystems. Built to mirror the core methodology of the **GVSU University-Wide Community Engagement Audit**, the project standardizes disparate institutional records into a relational entity database, analyzes network clustering, and identifies cross-departmental coordination patterns.
 
-![GVSU Community Engagement Network Map](gvsu_community_engagement_network.png)
+![GVSU Community Engagement Network Map](GVSU-Civic-Engagement-Map.pdf)
 
 ---
 
